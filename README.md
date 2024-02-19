@@ -1,6 +1,13 @@
 # 1. Fork the Repository:
   #### Go to the GitHub page https://github.com/HackToFuture/HTFXNN <br>
   #### Click on the "Fork" button in the upper-right corner of the page.
+  #### Assign the repository name as HTF *<Problem_Statement_Code><Team_Number>*.
+  ```
+Example :
+Repository Name : HTFC09
+Problem Statement code -> C
+Team Number -> 09
+```
   <img align="center" width = "500" src = "https://docs.github.com/assets/cb-40742/mw-1440/images/help/repository/fork-button.webp" alt="fork image"/>
 
 # 2.Clone the Forked Repository:
